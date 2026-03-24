@@ -1,4 +1,4 @@
-## Hey, I'm Martha 
+## Hey, I'm Martha!
 I'm a grad student and aspiring Data Engineer based in Charlotte, NC 🌆 I'm currently finishing my MS in Data Science & Business Analytics. I love building things with data: pipelines, recommenders, dashboards, and whatever rabbit hole I fall into next.
 
 ## What I Work With:
